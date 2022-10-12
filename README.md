@@ -27,8 +27,8 @@ até o momento eu domino as seguintes tecnologias e habilidades:
 
 <div align="center">
     <a href="https://github.com/jeluskinha">
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=jeluskinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeluskinha&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=jeluskinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeluskinha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
@@ -49,7 +49,8 @@ até o momento eu domino as seguintes tecnologias e habilidades:
   <a href = "mailto:jeanlucasgomesdeoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeluskinha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+<!--![Snake animation](https://github.com/rafaballerini/Jeluskinha/blob/output/github-contribution-grid-snake.svg)-->
  
 </div>
 
