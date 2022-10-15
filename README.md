@@ -31,6 +31,18 @@ até o momento eu domino as seguintes tecnologias e habilidades:
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeluskinha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+##
+### Meus Projetos pessoais
+
+<div align="center">
+    <a href="https://react-entrega-s1-nu-kenzie-jeluskinha.vercel.app/">
+    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=jeluskinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <a href="https://react-entrega-s1-hamburgueria-da-kenzie-jeluskinha.vercel.app/">
+    <img height="180em" width="49%" src="https://lh3.googleusercontent.com/2jXapozcsikhsWo30N1c2yn3EEfEj6p3Gj6TV3i0qURjMw4bX_eRbab7Rdo4Rd6kGvocafh1i_Jl2EodtOo2MlMwO9cqeoMwU0YwDNC_DWQReluAZsUQnowQEVfoBgfl2OM0HulLWeJT1grCPjWf9MLP5YwNZ8s9dL3G8PatA2yyAtJB91blkN_a13bDzPHz6M_3irhhV_zn-sHierdpH4tYNFbHVIuUokyRmL76pJzrLGBS1TSS7tJF52yx0bcpeDdsbaJyL0RZu9V5UppirmBQPQYlRbPc5rRbOqhcmZI7bDQIG5kKhX8bMMFr83oc2zxVOfDp8hrNXiF-01Wyu0dCjwYv_W5kWb-6G4pMgxuXQWX2YOEAT8G1VnNXKVbn6LrgKFqL-JjdTni2Kq4LLv6Q7NiCHv72WqoHepb9MbLVoVKtJDrbxAUawYuyzuw_9uGBw8ryaYwAQ8MGg5WuNvjSyTkLtdxQ9IdTCka1kJH_ED_kDgzcsz7axplWMVRYibe4813ByZuT68uG51BzcVjdsJKEG6mwXqoAWRgqnw2zGElN2Xrpp9QPyV8Rns6UV1HOVN3VqKG5BvM449tGzOsbFA2iFAxS7TKanj1fFE4Sg6a3olpksXqnBz4bfU16KXKELjgOVerSfHa5lK33FiM5IGYJa0GbXLt5KwEooRquHlMBpXSPSWYJNwguizDi0VhIXTaPw6_5IaLU_1MknKSbJ4u3_5LjEknFm_tpg1_K0nLa5LH15cGtHzADxfn2eT0E2gjm0DHHDofK-6h_2x4duzyb47axjDR0Ezh4hrWERgeNxRod-9hXrU8icARUDjsX4F-61dY3nIL0FCB_JOuSsKJIgTg-AqkGpV8FrzbHxY20T9VUzaTLPi7WOa0VC1g6a-HH9AQxKheApEm7jc91Er_Y_KjyVv2QkiMK=w640-h360-no?authuser=0"><br><br>
+    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=jeluskinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <a href="https://react-entrega-s1-hamburgueria-da-kenzie-jeluskinha.vercel.app/">
+    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeluskinha&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ##
 #### Fatos engraçados sobre mim ⚡ 
