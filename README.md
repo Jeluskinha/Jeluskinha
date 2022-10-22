@@ -31,6 +31,7 @@ até o momento eu domino as seguintes tecnologias e habilidades:
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeluskinha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<!--
 ##
 ### Meus Projetos pessoais
 
@@ -43,6 +44,7 @@ até o momento eu domino as seguintes tecnologias e habilidades:
     <a href="https://react-entrega-s1-hamburgueria-da-kenzie-jeluskinha.vercel.app/">
     <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeluskinha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+-->
 
 ##
 #### Fatos engraçados sobre mim ⚡ 
