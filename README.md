@@ -1,6 +1,6 @@
 ### Olá meu nome é Jeluskinha 👋
 
-- 🔭 Atualmente trabalho como monitor na **Kenzie Academy Brasil**
+- 🔭 Atualmente desenvolvedor full-stack **Indutiva**
 - 📚 Cursando Full-Stack Developer na mesma instituição onde atuo
 - 🌱 No momento estou estudando NodeJS / PostgreSQL
 - 🕹 E desenvolvendo meu próprio game RPG
