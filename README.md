@@ -1,6 +1,6 @@
 ### Olá meu nome é Jeluskinha 👋
 
-- 🔭 Atualmente desenvolvedor web full-stack na **Indutiva**
+- 🔭 Atualmente desenvolvedor web full-stack na **Vancouros**
 - 📚 Cursado em Full-Stack Developer pela **Kenzie Academy Brasil**
 - 🌱 No momento estou trabalhando em projetos freelancer's
 - 🕹 E desenvolvendo meu próprio game RPG
