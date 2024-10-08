@@ -9,9 +9,9 @@
    <img align="right" alt="Jeluskinha-pic" height="150" style="border-radius:50px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25247b92-6844-4fef-8ed8-5055cc35bf58/dczvonw-3ab6bb14-7b10-4332-8ea6-66042aa41e88.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1MjQ3YjkyLTY4NDQtNGZlZi04ZWQ4LTUwNTVjYzM1YmY1OFwvZGN6dm9udy0zYWI2YmIxNC03YjEwLTQzMzItOGVhNi02NjA0MmFhNDFlODgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0jc7S8uza7GZmuwVEQy6l8kr9cFLjfg554GY6o193SA">
 </div>
 
-### Sou desenvolvedor Front-end 💻
+### Sou desenvolvedor web Full-Stack 💻
 até o momento eu domino as seguintes tecnologias e habilidades:
-- HTML | CSS | JavaScript | ReactJS | Styled-Components | TypeScript | Scrum | Git-Flow  
+- HTML | CSS | JavaScript | React | TypeScript | Express.js | Node.js | TypeOrm | Python | Django | PostgreSQL | GitFlow | Scrum | PHP | Cursando TECNOLOGIA EM CIÊNCIA DE DADOS 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jeluskinha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
