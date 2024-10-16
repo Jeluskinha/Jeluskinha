@@ -27,8 +27,8 @@ até o momento eu domino as seguintes tecnologias e habilidades:
 
 <div align="center">
     <a href="https://github.com/jeluskinha">
-    <img height="240em" width="48%" src="https://github-readme-stats.vercel.app/api?username=jeluskinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="240em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeluskinha&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="300em" width="48%" src="https://github-readme-stats.vercel.app/api?username=jeluskinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="300em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeluskinha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <!--
