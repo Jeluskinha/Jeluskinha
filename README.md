@@ -21,7 +21,6 @@ até o momento eu domino as seguintes tecnologias e habilidades:
   <img align="center" alt="Jeluskinha-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jeluskinha-Scrum" height="30" width="35" src="https://cdn-icons-png.flaticon.com/512/5065/5065388.png">
   <img align="center" alt="Jeluskinha-GitFlow" height="30" width="40" src="https://miro.medium.com/max/275/1*-Wt5cIM3FpDRAv0C9kKhCA.png">
-   <img align="center" alt="Jeluskinha-GitFlow" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw1mxXWU_-STGIZh74xIRtgr&ust=1729197706940000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiQz8vhk4kDFQAAAAAdAAAAABAE">
 </div>
 
 ###
